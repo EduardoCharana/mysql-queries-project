@@ -1,5 +1,5 @@
 -- =========================
--- Dados de exemplo
+-- Sample data
 -- =========================
 
 -- Users
@@ -47,3 +47,4 @@ INSERT INTO order_items (order_item_id, order_id, product_id, quantity, unit_pri
 (8,6,1,1,1200.00),
 (9,6,7,1,120.00),
 (10,7,1,1,1200.00);
+
