@@ -35,19 +35,19 @@ mysql -u your_user -p < queries/update_queries.sql
 mysql -u your_user -p < queries/delete_queries.sql
 
 
-##Example Queries Description
-###select_queries.sql
+## Example Queries Description
+### select_queries.sql
 -List all users
 -List all products in stock
 -Orders with total amount greater than 500
 -Orders per user
 -Products ordered per order
 
-###update_queries.sql
+### update_queries.sql
 -Update product stock
 -Change order status
 
-###delete_queries.sql
+### delete_queries.sql
 -Delete a test user
 -Delete an order
 
