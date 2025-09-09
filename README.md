@@ -15,6 +15,7 @@ This project contains a sample MySQL database for an ecommerce system. It includ
 - `queries/select_queries.sql`: Example SELECT queries
 - `queries/update_queries.sql`: Example UPDATE queries
 - `queries/delete_queries.sql`: Example DELETE queries
+- `queries/joins_queries.sql`: Example JOINS queries
 
 ## How to Use
 
